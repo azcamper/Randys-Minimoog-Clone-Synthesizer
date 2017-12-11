@@ -2,7 +2,7 @@
 ### Randys-Minimoog-Clone-Synthesizer
 #### *A build up of a proto-8 with generic panel and Minimoog Function*
 
-<a href="https://raw.githubusercontent.com/azcamper/Proto-8-clone/master/Documentation/RandySynthPhoto1.JPG"><img src="https://raw.githubusercontent.com/azcamper/Proto-8-clone/master/Documentation/RandySynthPhoto1.JPG" align="center" height="240" width="320" ></a>
+<a><img src="https://github.com/azcamper/Randys-Minimoog-Clone-Synthesizer/blob/master/Documentation/P1020998%20(2).jpg" align="center" height="240" width="320" ></a>
 
 ------
 
